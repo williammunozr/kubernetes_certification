@@ -1,0 +1,2 @@
+- kubectl get configmaps
+- kubectl describe configmaps app-config
